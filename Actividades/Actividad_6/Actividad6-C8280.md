@@ -115,9 +115,7 @@ Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0
 
    **INTERFAZ G0/0/0**
 
-   ![Texto
-
-Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.018.png)
+   ![Texto Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.018.png)
 
    **INTERFAZ G0/0/1**
 
