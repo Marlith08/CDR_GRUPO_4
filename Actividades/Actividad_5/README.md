@@ -1,4 +1,6 @@
-﻿![ref1]**Departamento Académico de Ingeniería**
+﻿![ref1] (https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_5/IMAGENES/Aspose.Words.cfacfd52-f78a-4be5-92d0-a62d9bddcbea.001.png)
+ 
+ **Departamento Académico de Ingeniería**
 
 **C8280 -Comunicación de Datos y Redes**
 
