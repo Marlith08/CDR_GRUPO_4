@@ -1,4 +1,6 @@
-﻿![ref1]**Departamento Académico de Ingeniería**
+﻿![ref1](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.001.png)
+ 
+ **Departamento Académico de Ingeniería**
 
 **C8280 -Comunicación de Datos y Redes**
 
@@ -29,7 +31,7 @@ En la esquina inferior derecha de la interfaz de Packet Tracer, hay fichas que p
    1) Es posible que HTTP ya sea el único evento visible. Si es necesario, haz clic en el botón **Editar filtros** en la parte inferior del panel de simulación para mostrar los eventos visibles disponibles. Alterna la casilla de verificación **Mostrar todo/ninguno** y observa cómo las casillas de verificación se desactivan y se activan, o viceversa, según el estado actual.
    1) Haz clic en la casilla de verificación **Mostrar todo/ninguno** hasta que se desactiven todas las casillas y luego selecciona **HTTP**. Haz clic en la X situada en la esquina superior derecha de la ventana para cerrar la ventana **Editar filtros.** Los eventos visibles ahora deben mostrar sólo HTTP.
 
-      ![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.002.png)
+      ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.002.png)
 
 **Genera tráfico web (HTTP).**
 
@@ -39,18 +41,18 @@ Actualmente, el panel de simulación está vacío. En la parte superior de Lista
 
 1. Haz clic en **Cliente web** en el panel del extremo izquierdo.
 
-![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.003.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.003.png)
 
 
 1. Haz clic en la ficha **Escritorio** y luego en el ícono **Navegador web** para abrirlo.
 
-![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.004.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.004.png)
 
 
 
 1. En el campo de dirección URL, **introduce www.osi.local** y haga clic en **Ir**.
 
-![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.005.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.005.png)
 
 
 Debido a que el tiempo en el modo de simulación se desencadena por eventos, debes usar el botón **Capturar/avanzar** para mostrar los eventos de red. El botón de captura hacia adelante se encuentra en el lado izquierdo de la banda azul que está debajo de la ventana de topología. De los tres botones, es el de la derecha. ![Forma
@@ -59,7 +61,7 @@ Descripción generada automáticamente](Aspose.Words.cde25332-39bc-4820-8f7d-5e5
 
 1. Haz clic en **Capturar/Avanzar** cuatro veces. Deberías haber cuatro eventos en la Lista de eventos.
 
-![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.007.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.007.png)
 
 
 
@@ -67,7 +69,7 @@ Pregunta:
 
 Observa la página del navegador web del cliente web. ¿Cambió algo?
 
-![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.008.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.008.png)
 
 **Acceder al servidor web** 
 ## **Explora el contenido del paquete HTTP**
@@ -75,13 +77,13 @@ Observa la página del navegador web del cliente web. ¿Cambió algo?
 
    Se muestra la ventana **Información de PDU en dispositivo: cliente web**. En esta ventana, solo hay dos fichas, (**Modelo OSI** y **Detalles de PDU saliente**), debido a que este es el inicio de la transmisión. A medida que se analizan más eventos, se muestran tres fichas, ya que se agrega la ficha **Detalles de PDU entrante**. Cuando un evento es el último evento de la transmisión de tráfico, solo se muestran las fichas **Modelo OSI** y **Detalles de PDU entrante**.
 
-   ![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.009.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.009.png)
 
 1. Asegúrate de que esté seleccionada la ficha **Modelo OSI**.
 
    En la columna **Capas de salida,** haga clic en **Capa 7.**
 
-   ![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.010.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.010.png)
 
 
 
@@ -97,11 +99,11 @@ Observa la página del navegador web del cliente web. ¿Cambió algo?
 
    ¿Cuál es el **destino? ¿Valor** IP para la **Capa 3** en la columna **Capas de salida?**
 
-   ![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.011.png) este es el destino de IP.
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.011.png) este es el destino de IP.
 
    ¿Qué información se muestra en la Capa 2 en la columna **Capas de salida**?
 
-![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.012.png)El encabezado Ethernet II de capa 2 y las direcciones MAC entrantes y salientes**.**
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.012.png)El encabezado Ethernet II de capa 2 y las direcciones MAC entrantes y salientes**.**
 
 `	`c.	Haz clic en la ficha de **Detalles de la PDU saliente**.
 
@@ -109,7 +111,7 @@ La información que se indica debajo de **Detalles de PDU** refleja las capas de
 
 Nota**: La información que se indica en la sección** Ethernet II **proporciona información aún más detallada que la que se indica en capa 2 en la ficha Modelo OSI.** Los **detalles de la PDU** saliente proporcionan información más descriptiva y detallada. Los **valores de** MAC DE DEST. **y de** MAC DE ORIGEN **en la sección** Ethernet II **de** Detalles de PDU **aparecen en la ficha** Modelo OSI**, en capa 2, pero no se los identifica como tales.**
 
-![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.013.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.013.png)
 
 Preguntas:
 
@@ -128,12 +130,11 @@ Host: [www.osi.local](http://www.osi.local) y esta relacionado con la capa 7
 4. Haz clic en el primer cuadro coloreado debajo de la columna **Lista de eventos** >**Tipo**. Solo la capa 1 está activa (sin atenuar). El dispositivo mueve el frame desde el búfer y la coloca en la red.
 
    ![Interfaz de usuario gráfica
-
-Descripción generada automáticamente con confianza media](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.014.png)
+Descripción generada automáticamente con confianza media](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.014.png)
 
 4. Avanza al siguiente cuadro **Tipo** de HTTP dentro de la **lista de eventos** y haz clic en el cuadro coloreado. Esta ventana contiene las columnas **Capas de entrada** y **Capas de salida**. Observa la dirección de la flecha que está directamente debajo de la columna **Capas de entrada**; esta apunta hacia arriba, lo que indica la dirección en la que se transfiere la información. Desplázate por estas capas y toma nota de los elementos vistos anteriormente. En la parte superior de la columna, la flecha apunta hacia la derecha. Esto indica que el servidor ahora envía la información de regreso al cliente. 
 
-   ![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.015.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.015.png)
 
 4. Compara la información que se muestra en la columna **Capas de entrada** con la de la columna **Capas de salida**: ¿cuáles son las diferencias principales?
 
@@ -141,11 +142,11 @@ Descripción generada automáticamente con confianza media](Aspose.Words.cde2533
 
 4. Haz clic en la ficha **Inbound PDU Details** (Detalles de PDU entrante). Revisa los detalles de la PDU.
 
-   ![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.016.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.016.png)
 
 4. Haz clic en el último cuadro coloreado de la columna **Información**.Explica los resultados.
 
-![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.017.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.017.png)
 
 
 nos muestra dos ventanas, OSI Model y Inbound PDU. Aquí se nos muestra que la información ya llego al servidor.
@@ -161,7 +162,7 @@ En la parte 2 de esta actividad, utilizará el modo de simulación de Packet Tra
 
    ¿Qué tipos de eventos adicionales se muestran?
 
-   ![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.018.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.018.png)
 
    Se puede observar 3 protocolos más DNS, ART Y DCP.
 
@@ -174,21 +175,21 @@ En la parte 2 de esta actividad, utilizará el modo de simulación de Packet Tra
 
    **Modelo OSI** con el cuadro **capa 7** resaltado, se incluye una descripción de lo que ocurre, inmediatamente debajo de las **Capas de entrada** y las **Capas de salida**: (“1. The DNS client sends a DNS query to the DNS server.” [“El cliente DNS envía una consulta DNS al servidor DNS”]). Esta información es muy útil para ayudarte a comprender qué ocurre durante el proceso de comunicación. 
 
-   ![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.019.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.019.png)
 
 1. Haz clic en la ficha de **Detalles de la PDU saliente**.
 
-   ![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.020.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.020.png)
 
    Pregunta:
 
    ¿Qué información se indica en **NOMBRE**: en la sección CONSULTA DNS?
 
-   Nos muestra que el nombre es ![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.021.png)
+   Nos muestra que el nombre es ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.021.png)
 
 1. Haz clic en el último cuadro coloreado **Información** de DNS en la lista de eventos.
 
-   ![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.022.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.022.png)
 
    Preguntas:
 
@@ -202,7 +203,7 @@ En la parte 2 de esta actividad, utilizará el modo de simulación de Packet Tra
 
 1. Busca el primer evento de **HTTP** en la lista y haga clic en el cuadro coloreado del evento de **TCP** que le sigue inmediatamente a este evento. Resalte **capa 4** en la ficha **Modelo OSI**.
 
-![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.023.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.023.png)
 
 Pregunta:
 
@@ -210,13 +211,13 @@ En la lista numerada que está directamente debajo de **Capas de entrada** y **C
 
 Que la conexión fue exitosa y que la conexión esta establecida. 
 
-![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.024.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.024.png)
 
 El protocolo TCP administra la conexión y la desconexión del canal de comunicaciones, además de tener otras responsabilidades. Este evento específico muestra que SE ESTABLECIÓ el canal de comunicaciones.
 
 1. Haz clic en el último evento de TCP. Resalte capa 4 en la ficha **Modelo OSI**. Examine los pasos que se indican directamente a continuación de **Capas de entrada** y **Capas de salida**.
 
-   Pregunta:![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.025.png)
+   Pregunta:![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.025.png)
 
    ¿Cuál es el propósito de este evento, según la información proporcionada en el último elemento de la lista (debe ser el elemento 4)?
 
@@ -230,13 +231,13 @@ Sobre la base de la información que se analizó durante la captura de Packet Tr
 
 **En el puerto 80**
 
-![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.026.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.026.png)
 
 ¿Qué puerto escucha el **servidor web** para detectar una solicitud de DNS?
 
 **En el puerto 53**
 
-*Fin del documento![](Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.027.png)*
+*Fin del documento![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_7/IMAGENES/Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.027.png)*
 Comunicación de Datos y Redes
 
 [ref1]: Aspose.Words.cde25332-39bc-4820-8f7d-5e5397def094.001.png
