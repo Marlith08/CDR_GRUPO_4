@@ -1,5 +1,7 @@
 ﻿
-![ref1]**Departamento Académico de Ingeniería** 
+![ref1](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_3/IMAGENES/Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2a013cd028.001.png)
+
+**Departamento Académico de Ingeniería** 
 
 **C8280 -Comunicación de Datos y Redes** 
 
@@ -33,19 +35,19 @@ Esta actividad está optimizada para la visualización de PDU<sup>[^1]</sup>. Lo
    1. Haz clic en **172.16.31.5** y abra el **Command Prompt**. 
    1. Introduce el comando **ping 172.16.31.2**. 
 
-      ![](Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2a013cd028.002.png)
+      ![]([https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_3/IMAGENES/Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2a013cd028.002.png)
 
    1. Cambia al modo de simulación y repita el comando **ping 172.16.31.2.** Aparece una PDU junto a **172.16.31.5**. 
 
-      ![](Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2a013cd028.003.png)
+      ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_3/IMAGENES/Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2a013cd028.003.png)
 
    1. Haz clic en la PDU y observa la siguiente información de las pestañas **Modelo OSI l** y **Capa de PDU saliente:**  o Destination MAC Address: 000C:85CC**:1DA7** 
 
-![](Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2a013cd028.004.png) 
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_3/IMAGENES/Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2a013cd028.004.png) 
 
 o Source MAC Address: **00D0:D311:C788** o Source IP Address:**172.16.31.5** o Destination IP Address: **172.16.31.2** o At Device: **172.16.31.5** 
 
-![](Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2a013cd028.005.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_3/IMAGENES/Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2a013cd028.005.png)
 
 1. Haz clic en **Capture / Forward (la flecha derecha seguida de una barra vertical)** para mover la PDU al siguiente dispositivo. Reúna la misma información del paso 1d. Repite este proceso hasta que la PDU llegue al destino. Registra la información que reunió de la PDU en una hoja de cálculo con un formato como el de la tabla que se muestra a continuación: **Formato de hoja de cálculo de ejemplo** 
 
@@ -63,8 +65,7 @@ Repite el proceso del paso 1 y reúna información para las siguientes pruebas:
 - Ping de 172.16.31.2 a 172.16.31.3 
 
   ![Interfaz de usuario gráfica, Texto, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2a013cd028.006.png)
+Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_3/IMAGENES/Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2a013cd028.006.png)
 
 
 
@@ -77,7 +78,7 @@ Descripción generada automáticamente](Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2
 
 . Ping de 172.16.31.4 a 172.16.31.5 Vuelva al modo Realtime. 
 
-![](Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2a013cd028.007.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_3/IMAGENES/Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2a013cd028.007.png)
 
 |**En dispositivo** |**MAC de destino** |**MAC de origen** |**IPv4 de origen** |**IPv4 de destino** |
 | :-: | :-: | :-: | :-: | :- |
@@ -104,14 +105,12 @@ Para comunicarse con redes remotas, es necesario un dispositivo de puerta de enl
 
 
 ![Texto
-
-Descripción generada automáticamente](Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2a013cd028.008.png)
+Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_3/IMAGENES/Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2a013cd028.008.png)
 
 1. Cambia al modo de simulación y repita el comando **ping 10.10.10.2.** Aparece una PDU junto a **172.16.31.5**. 
 
 ![Diagrama
-
-Descripción generada automáticamente](Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2a013cd028.009.png)
+Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_3/IMAGENES/Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2a013cd028.009.png)
 
 
 
@@ -127,7 +126,7 @@ Descripción generada automáticamente](Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2
 
    At Device: 172.16.31.5 
 
-   ![](Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2a013cd028.010.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_3/IMAGENES/Aspose.Words.e2d5cc16-9c3c-44c3-b466-aa2a013cd028.010.png)
 
 Pregunta: 
 
