@@ -1,4 +1,6 @@
-﻿![ref1]**Departamento Académico de Ingeniería**
+﻿![ref1](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG1.png) 
+ 
+ **<p align="center"> Departamento Académico de Ingeniería </p>**
 
 **C8280 -Comunicación de Datos y Redes**
 
@@ -27,7 +29,7 @@ El conjunto de comandos EXEC privilegiado incluye los comandos disponibles en el
 
 1. Haz clic en S1 y luego en la pestaña CLI. Presione Enter.
 
-   ![](Aspose.Words.ee184615-bb90-4573-aadb-a8fef09db785.002.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG2.png)
 
 1. Ingresa al modo EXEC privilegiado introduciendo el comando enable:
 
@@ -37,7 +39,7 @@ Switch> **enable**
 
 Switch#
 
-Observa que la solicitud cambió para reflejar el modo EXEC privilegiado. ![](Aspose.Words.ee184615-bb90-4573-aadb-a8fef09db785.003.png)
+Observa que la solicitud cambió para reflejar el modo EXEC privilegiado. ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG3.png)
 
 1. **Examina la configuración actual del switch.**
 
@@ -47,7 +49,7 @@ Switch# **show running-config**
 
 Responde las siguientes preguntas:
 
-![](Aspose.Words.ee184615-bb90-4573-aadb-a8fef09db785.004.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG4.png)
 
 1. ¿Cuántas interfaces Fast Ethernet tiene el switch?
 
@@ -85,7 +87,7 @@ S1(config)# **exit**
 
 S1#
 
-![](Aspose.Words.ee184615-bb90-4573-aadb-a8fef09db785.005.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG5.png)
 
 **Proporciona acceso seguro a la línea de consola.**
 
@@ -107,7 +109,7 @@ S1(config)# **exit**
 
 %SYS-5-CONFIG\_I: Configured from console by console S1#
 
-![](Aspose.Words.ee184615-bb90-4573-aadb-a8fef09db785.006.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG6.png)
 
 Pregunta:
 
@@ -127,7 +129,7 @@ User Access Verification Password:
 
 S1>
 
-![](Aspose.Words.ee184615-bb90-4573-aadb-a8fef09db785.007.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG7.png)
 
 **Proporciona un acceso seguro al modo privilegiado.**
 
@@ -145,7 +147,7 @@ S1(config)# **exit**
 
 S1#
 
-![](Aspose.Words.ee184615-bb90-4573-aadb-a8fef09db785.008.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG8.png)
 
 **Verifica que el acceso al modo privilegiado sea seguro.**
 
@@ -158,13 +160,13 @@ S1#
 1. Introduce el comando para acceder al modo privilegiado.
 1. Introduce la segunda contraseña que configuró para proteger el modo EXEC privilegiado.
 
-   ![](Aspose.Words.ee184615-bb90-4573-aadb-a8fef09db785.009.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG9.png)
 
 1. Verifica su configuración examinando el contenido del archivo de configuración en ejecución:
 
    S1# **show running-config**
 
-   ![](Aspose.Words.ee184615-bb90-4573-aadb-a8fef09db785.010.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG10.png)
 
    Ten en cuenta que la consola y las contraseñas de activación están en texto plano. Esto podría suponer un riesgo para la seguridad si alguien está mirando por encima de su hombro u obtiene acceso a los archivos de configuración almacenados en una ubicación de copia de seguridad.
 
@@ -180,7 +182,7 @@ S1(config)# **exit**
 
 S1#
 
-![](Aspose.Words.ee184615-bb90-4573-aadb-a8fef09db785.011.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG11.png)
 
 **Nota**: La contraseña de **enable secret** sobrescribe la contraseña de **enable** password. Si ambos están configurados en el switch, debes ingresar la contraseña **enable secret** para ingresar al modo EXEC privilegiado.
 
@@ -196,7 +198,7 @@ Preguntas:
 
 ¿Qué se muestra como contraseña de enable secret?
 
-![](Aspose.Words.ee184615-bb90-4573-aadb-a8fef09db785.012.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG12.png)
 
 Me muestra otra contraseña encriptada, es decir más difícil de descifrar.
 
@@ -214,7 +216,7 @@ S1# **config t**
 
 S1(config)# **service password-encryption** S1(config)# **exit**
 
-![](Aspose.Words.ee184615-bb90-4573-aadb-a8fef09db785.013.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG13.png)
 
 Pregunta:
 
@@ -240,7 +242,7 @@ Preguntas:
 
 Cuando el usuario necesite ingresar.
 
-![](Aspose.Words.ee184615-bb90-4573-aadb-a8fef09db785.014.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG14.png)
 
 ¿Por qué todos los switches deben tener un aviso de MOTD?
 
@@ -283,18 +285,18 @@ Hemos completado la configuración en S1. Ahora configura el S2. Si no recuerda 
 1. Configura enable password como **claudi** y una contraseña enable secret como **itsasecret**.
 1. Configura un mensaje apropiado para aquellos que inician sesión en el switch.
 
-   ![](Aspose.Words.ee184615-bb90-4573-aadb-a8fef09db785.015.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG15.png)
 
 1. Encripta todas las contraseñas de texto no cifrado.
 1. Asegúrate de que la configuración sea correcta.
 
-   ![](Aspose.Words.ee184615-bb90-4573-aadb-a8fef09db785.016.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG16.png)
 
-   ![](Aspose.Words.ee184615-bb90-4573-aadb-a8fef09db785.017.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG17.png)
 
 1. Guarda el archivo de configuración para evitar perderlo si el switch se apaga.
 
-   ![](Aspose.Words.ee184615-bb90-4573-aadb-a8fef09db785.018.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG18.png)
 
 `	`g.	Cierra la ventana de configuración para S2
 
