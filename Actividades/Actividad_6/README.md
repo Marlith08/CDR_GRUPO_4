@@ -1,4 +1,7 @@
-﻿![ref1]**Departamento Académico de Ingeniería**
+﻿![ref1](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.001.png)
+ <p align="center">
+ **Departamento Académico de Ingeniería**
+ </p>
 
 **C8280 -Comunicación de Datos y Redes**
 
@@ -6,7 +9,7 @@
 
 **Físico**
 # ` 	`**Topología**
-![](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.002.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.002.png)
 # ` 	`**Tabla de asignación de direcciones**
 
 <table><tr><th valign="bottom"><b>Dispositivo</b></th><th valign="bottom"><b>Interfaz</b></th><th valign="bottom"><b>Dirección IP / Prefijo</b></th><th><b>Puerta de enlace predeterminada</b></th></tr>
@@ -38,19 +41,19 @@ Esta actividad brinda la ayuda mínima con los comandos que se necesitan para co
 ## **1 . Configura la topología de red**
 1. Mueva el router y el switch requeridos del **Estante** al **Rack**.
 
-   ![](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.003.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.003.png)
 
 1. Mueva los PCs requeridos del **Estante** a la **Mesa**.
 
-   ![](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.004.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.004.png)
 
 1. Conecta los dispositivos como se muestra en la **Topologia** y en la **Tabla de asignación de direcciones**.
 
-   ![](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.005.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.005.png)
 
 1. Encienda todos los dispositivos.
 
-   ![](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.006.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.006.png)
 ## **2. Configurar los dispositivos y verificar la conectividad**
 En esta parte deberás configurar la topología de la red y los parámetros básicos, como las direcciones IP de las interfaces, el acceso de los dispositivos y las contraseñas. Consulte la **Topología** y la **Tabla de asignación de direcciones** que se encuentran al inicio de esta actividad para conocer los nombres de los dispositivos y la información de las direcciones.
 
@@ -58,15 +61,15 @@ En esta parte deberás configurar la topología de la red y los parámetros bás
 
 1. Configura la dirección IP, la máscara de subred y los parámetros del gateway predeterminado en la PC-A.
 
-   ![](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.007.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.007.png)
 
 1. Configura la dirección IP, la máscara de subred y los parámetros del gateway predeterminado en la PC-B.
 
-   ![](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.008.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.008.png)
 
 1. En una ventana con el símbolo del sistema en la PC-A, haga ping a la PC-B.
 
-   Pregunta: ![](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.009.png)
+   Pregunta: ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.009.png)
 
    ¿Por qué los pings no fueron correctos?
 
@@ -76,84 +79,68 @@ En esta parte deberás configurar la topología de la red y los parámetros bás
 
 1. Acceda al router mediante el puerto de consola y habilite el modo EXEC con privilegios.
 
-   ![](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.010.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.010.png)
 
 1. Ingresa al modo de configuración.
-1. ![ref2]
+1. ![ref2](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.11.png)
 
 1. Asigna el nombre de dispositivo al router.
 
-   ![ref3]
+   ![ref3](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.012.png)
 
 1. Asigna **class** como la contraseña cifrada del modo EXEC privilegiado.
 
-   ![Texto
-
-Descripción generada automáticamente]
+   ![Texto Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.013.png)
 
 1. Asigna **cisco** como la contraseña de la consola y habilite el inicio de sesión.
 
-   ![Texto
-
-Descripción generada automáticamente]
+   ![Texto Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.014.png)
 
 1. Asigne **cisco** como la contraseña de vty y habilite el inicio de sesión.
 
-   ![Texto
-
-Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.015.png)
+   ![Texto Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.015.png)
 
 1. Encripta las contraseñas de texto sin formato.
 
-   ![](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.016.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.016.png)
 
 1. Crea un aviso que advierta a todo el que acceda al dispositivo que el acceso no autorizado está prohibido.
 
-   ![](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.017.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.017.png)
 
 1. Configura y activa las dos interfaces en el router.
 
    **INTERFAZ G0/0/0**
 
-   ![Texto Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.018.png)
+   ![Texto Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.018.png)
 
    **INTERFAZ G0/0/1**
 
-   ![Pantalla de computadora con letras
-
-Descripción generada automáticamente con confianza media](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.019.png)
+   ![Pantalla de computadora con letras Descripción generada automáticamente con confianza media](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.019.png)
 
 1. Configura una descripción de interfaz para cada interfaz e indique qué dispositivo está conectado.
 
-   ![Texto
-
-Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.020.png)
+   ![Texto Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.020.png)
 
 5. Para habilitar el enrutamiento IPv6, ingrese el comando **ipv6 unicast-routing**.
 
-   ![Texto
-
-Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.021.png)
+   ![Texto Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.021.png)
 
 5. Guardar la configuración en ejecución en el archivo de configuración de inicio
 
-   ![Texto
-
-Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.022.png)
+   ![Texto Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.022.png)
 
 5. Configura el reloj en el router.
 
    **Nota:** Utiliza el signo de interrogación (**?**) para poder determinar la secuencia correcta de parámetros necesarios para ejecutar este comando.
 
-   ![](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.023.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.023.png)
 
 *Cerrar la ventana de configuración*
 
 5. En una ventana con el símbolo del sistema en la PC-A, haga ping a la PC-B.
 
-   ![Calendario
-
-Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.024.png)
+   ![Calendario Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.024.png)
 
    **Nota**: Si los pings no son correctos, es posible que debas desactivar el Firewall.Pregunta:
 
@@ -169,50 +156,34 @@ En este paso, configura el nombre de host, la interfaz de VLAN 1 y su puerta de 
 
 1. Acceda al switch mediante el puerto de consola y habilite al modo EXEC con privilegios.
 
-   ![Interfaz de usuario gráfica
-
-Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.025.png)
+   ![Interfaz de usuario gráfica Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.025.png)
 
 1. Ingresa al modo de configuración.
 
-   ![Texto
-
-Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.026.png)
+   ![Texto Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.026.png)
 
 1. Asigna un nombre de dispositivo al switch.
 
-   ![Texto
-
-Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.027.png)
+   ![Texto Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.027.png)
 
 1. Configura y activa la interfaz VLAN en el switch S1.
-1. ![Captura de pantalla de un celular
+1. ![Captura de pantalla de un celular Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.028.png)Configura la puerta de enlace predeterminada para el switch S1.
 
-Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.028.png)Configura la puerta de enlace predeterminada para el switch S1.
-
-   ![Una captura de pantalla de un celular con texto e imagen
-
-Descripción generada automáticamente con confianza media](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.029.png)
+   ![Una captura de pantalla de un celular con texto e imagen Descripción generada automáticamente con confianza media](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.029.png)
 
 9. Guarda la configuración en ejecución en el archivo de configuración de inicio
 
-   ![Una captura de pantalla de un celular con texto e imagen
-
-Descripción generada automáticamente con confianza baja](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.030.png)
+   ![Una captura de pantalla de un celular con texto e imagen Descripción generada automáticamente con confianza baja](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.030.png)
 
 **Verifica la conectividad de extremo a extremo.**
 
 9. Desde la PC-A, haga ping a la PC-B.
 
-   ![Imagen que contiene Calendario
-
-Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.031.png)
+   ![Imagen que contiene Calendario Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.031.png)
 
 9. Desde S1, ping PC-B.
 
-   ![Texto
-
-Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.032.png)
+   ![Texto Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.032.png)
 
 Todos los pings deben tener éxito.
 
@@ -224,9 +195,7 @@ En la parte 3, utilizará los comandos **show** para recuperar información del 
 
 1. Utiliza el comando **show ip route** en R1 para responder las preguntas siguientes.
 
-   ![Interfaz de usuario gráfica, Texto
-
-Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.033.png)
+   ![Interfaz de usuario gráfica, Texto Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.033.png)
 
    *Abra la ventana de configuración* Preguntas:
 
@@ -250,15 +219,13 @@ Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0
 
 1. Usa el comando **show ipv6 route** en R1 para ver las rutas de IPv6.
 
-   ![](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.034.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.034.png)
 
 **Muestra la información de la interfaz en el R1.**
 
 1. Utiliza el comando **show interface g0/0/1** para responder las preguntas siguientes.
 
-   ![Texto
-
-Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.035.png)
+   ![Texto Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.035.png)
 
    ¿Cuál es el estado operativo de la interfaz G0/0/1?
 
@@ -280,9 +247,7 @@ La dirección de Internet (o dirección IP) se muestra en este comando en la lí
 
 1. Para obtener información sobre IPv6, escribe el comando **show ipv6 interface *interface.***
 
-   ![Texto
-
-Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.036.png)
+   ![Texto Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.036.png)
 
 **Muestra una lista de resumen de las interfaces del router y del switch**
 
@@ -292,15 +257,13 @@ Existen varios comandos que se pueden utilizar para verificar la configuración 
 
    R1# **show ip interface brief**
 
-   ![](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.037.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.037.png)
 
 1. Ingresa el comando **show ipv6 interface brief** en R1 para ver información de IPv6 de las interfaces.
 
    R1# **show ipv6 interface brief**
 
-   ![Texto
-
-Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.038.png)
+   ![Texto Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.038.png)
 
 *Cerrar la ventana de configuración*
 
@@ -308,9 +271,7 @@ Descripción generada automáticamente](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0
 
    *Abrir la ventana de configuración* S1# **show ip interface brief**
 
-   ![Interfaz de usuario gráfica, Texto
-
-Descripción generada automáticamente con confianza media](Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.039.png)
+   ![Interfaz de usuario gráfica, Texto Descripción generada automáticamente con confianza media](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_6/IMAGENES/Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.039.png)
 
 *Cierre la ventana de configuración*
 # **Preguntas**
@@ -326,13 +287,3 @@ Descripción generada automáticamente con confianza media](Aspose.Words.b3ee521
 
    ***Escriba sus respuestas aquí.***
 Comunicación de Datos y Redes
-
-[ref1]: Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.001.png
-[ref2]: Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.011.png
-[ref3]: Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.012.png
-[Texto
-
-Descripción generada automáticamente]: Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.013.png
-[Texto
-
-Descripción generada automáticamente]: Aspose.Words.b3ee5210-5704-4e3c-90f1-bc0ba5b6ce3a.014.png
