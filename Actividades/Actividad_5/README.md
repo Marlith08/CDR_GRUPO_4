@@ -1,4 +1,4 @@
-﻿![ref1] (https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_5/IMAGENES/Aspose.Words.cfacfd52-f78a-4be5-92d0-a62d9bddcbea.001.png)
+﻿![ref1](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_5/IMAGENES/Aspose.Words.cfacfd52-f78a-4be5-92d0-a62d9bddcbea.001.png)
  
  **Departamento Académico de Ingeniería**
 
@@ -21,19 +21,17 @@ Esta actividad está optimizada para la visualización de PDU<sup>[^1]</sup>. Lo
 1. Haz clic en **172.16.31.5** y abra el **Command Prompt**.
 1. Introduce el comando **ping 172.16.31.2**.
 
-   ![](Aspose.Words.cfacfd52-f78a-4be5-92d0-a62d9bddcbea.002.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_5/IMAGENES/Aspose.Words.cfacfd52-f78a-4be5-92d0-a62d9bddcbea.002.png)
 
 1. Cambia al modo de simulación y repita el comando **ping 172.16.31.2** . Aparece una PDU junto a **172.16.31.5**.
 
-   ![](Aspose.Words.cfacfd52-f78a-4be5-92d0-a62d9bddcbea.003.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_5/IMAGENES/Aspose.Words.cfacfd52-f78a-4be5-92d0-a62d9bddcbea.003.png)
 
 1. Haz clic en la PDU y observa la siguiente información de las pestañas **Modelo OSI l** y **Capa de PDU saliente:**
    1. Destination MAC Address:**000C:85CC:1DA7** o Source MAC Address: **00D0:D311:C788** o Source IP Address:**172.16.31.5** o Destination IP Address: **172.16.31.2**
    1. At Device: **172.16.31.5**
 
-      ![Texto, Tabla
-
-Descripción generada automáticamente](Aspose.Words.cfacfd52-f78a-4be5-92d0-a62d9bddcbea.004.png)
+![Texto, TablaDescripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_5/IMAGENES/Aspose.Words.cfacfd52-f78a-4be5-92d0-a62d9bddcbea.004.png)
 
 1. Haz clic en **Capture / Forward (la flecha derecha seguida de una barra vertical)** para mover la PDU al siguiente dispositivo. Reúna la misma información del paso 1d. Repite este proceso hasta que la PDU llegue al destino. Registra la información que reunió de la PDU en una hoja de cálculo con un formato como el de la tabla que se muestra a continuación:
 
@@ -78,13 +76,11 @@ Para comunicarse con redes remotas, es necesario un dispositivo de puerta de enl
 1. Haz click en **172.16.31.5** y abra el **Command Prompt**.
 1. Introduce el comando **ping 10.10.10.2**.
 
-   ![](Aspose.Words.cfacfd52-f78a-4be5-92d0-a62d9bddcbea.005.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_5/IMAGENES/Aspose.Words.cfacfd52-f78a-4be5-92d0-a62d9bddcbea.005.png)
 
 1. Cambia al modo de simulación y repita el comando **ping 10.10.10.2** . Aparece una PDU junto a **172.16.31.5**.
 
-![Diagrama
-
-Descripción generada automáticamente](Aspose.Words.cfacfd52-f78a-4be5-92d0-a62d9bddcbea.006.png)
+![Diagrama Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_5/IMAGENES/Aspose.Words.cfacfd52-f78a-4be5-92d0-a62d9bddcbea.006.png)
 
 1. Haz clic en la PDU y observe la siguiente información en la ficha **Outbound PDU Layer (Capa de PDU saliente)**:
 
@@ -98,9 +94,8 @@ Descripción generada automáticamente](Aspose.Words.cfacfd52-f78a-4be5-92d0-a62
 
    At Device: 172.16.31.5 
 
-   ![Interfaz de usuario gráfica, Texto, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.cfacfd52-f78a-4be5-92d0-a62d9bddcbea.007.png)Pregunta:
+   ![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada automáticamente](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_5/IMAGENES/Aspose.Words.cfacfd52-f78a-4be5-92d0-a62d9bddcbea.007.png)
+   Pregunta:
 
    ¿Qué dispositivo tiene el MAC de destino que se muestra?
 
