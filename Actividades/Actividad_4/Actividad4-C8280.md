@@ -39,7 +39,9 @@ Switch> **enable**
 
 Switch#
 
-Observa que la solicitud cambió para reflejar el modo EXEC privilegiado. ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG3.png)
+Observa que la solicitud cambió para reflejar el modo EXEC privilegiado. !
+
+[](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_4/IMAGENES/IMG3.png)
 
 1. **Examina la configuración actual del switch.**
 
