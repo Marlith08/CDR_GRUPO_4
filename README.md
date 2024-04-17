@@ -34,7 +34,7 @@
 
 ¿Te sientes inspirado? ¡Queremos escuchar tus ideas y ver cómo contribuyes a este emocionante proyecto! Envíanos tus comentarios, sugerencias a través de pull requests.
 
-## 📞 Contanto
+## 📞 Contacto
 
 - 💌 Correo electrónico:
   - Estudiante 1: [antony.mendoza@upch.pe](mailto:email1@example.com)
