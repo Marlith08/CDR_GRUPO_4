@@ -1,5 +1,8 @@
 ﻿
-![ref1]**Departamento Académico de Ingeniería** 
+![ref1](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_2/IMAGENES/Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.001.png)
+
+<p align="center">
+   Departamento Académico de Ingeniería </p>
 
 **C8280 -Comunicación de Datos y Redes** 
 
@@ -46,21 +49,21 @@ Complete los siguientes pasos en el S1 y el S2.
 
 1. Haz clic en S1 y luego en la ficha CLI. 
 
-   ![](Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.002.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_2/IMAGENES/Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.002.png)
 
 1. Introduce el comando correcto para configurar el nombre de host S1. 
 
-   ![](Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.003.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_2/IMAGENES/Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.003.png)
 
 **Configura la consola y las contraseñas cifradas de modo EXEC privilegiado.**  
 
 1. Usa **checha** como la contraseña de la consola. 
 
-   ![](Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.004.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_2/IMAGENES/Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.004.png)
 
 1. Usa **jeka** para la contraseña del modo EXEC privilegiado. 
 
-   ![](Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.005.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_2/IMAGENES/Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.005.png)
 
 **Verifica la configuración de contraseñas para el S1.** 
 
@@ -70,7 +73,7 @@ Pregunta:
 
 Se puede verificar de dos formas, saliendo y entrando con la contraseña y a la vez ingresando a la RAM con show running-config (**sh run**).
 
-![](Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.006.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_2/IMAGENES/Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.006.png)
 
 **Configura un aviso de MOTD.** 
 
@@ -78,9 +81,9 @@ Utiliza un texto de aviso adecuado para advertir contra el acceso no autorizado.
 
 **Acceso autorizado únicamente. Los infractores se procesarán en la medida en que lo permita la ley.** 
 
-![](Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.007.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_2/IMAGENES/Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.007.png)
 
-![](Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.008.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_2/IMAGENES/Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.008.png)
 
 **Guarda el archivo de configuración en la NVRAM.** 
 
@@ -90,7 +93,7 @@ Pregunta:
 
 Se emite el comando copy running-config startup-config (**wr**)
 
-![](Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.009.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_2/IMAGENES/Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.009.png)
 
 
 
@@ -104,27 +107,27 @@ Configura la PC1 y la PC2 con direcciones IP.
 
 1. Haz clic en PC1 y luego en la ficha Escritorio. 
 
-   ![](Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.010.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_2/IMAGENES/Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.010.png)
 
 1. Haz clic en Configuración de IP. En la tabla de direccionamiento anterior, puede ver que la dirección IP para la PC1 es 192.168.1.1 y la máscara de subred es 255.255.255.0. Introduzca esta información para la PC1 en la ventana Configuración de IP. 
 
-   ![](Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.011.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_2/IMAGENES/Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.011.png)
 
 1. Repite los pasos 1a y 1b para la PC2. 
 
-   ![](Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.012.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_2/IMAGENES/Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.012.png)
 
 **Prueba la conectividad a los switches.** 
 
 1. Haz clic en PC1. Cierre la ventana Configuración de IP si todavía está abierta. En la ficha Escritorio, haga clic en Símbolo del sistema. 
 
-   ![](Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.013.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_2/IMAGENES/Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.013.png)
 
 1. Escribe el comando **ping** y la dirección IP para S1 y presione Enter. 
 
    Packet Tracer PC Línea de comandos 1.0 PC> **ping 192.168.1.253** 
 
-   ![](Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.014.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_2/IMAGENES/Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.014.png)
 
 Pregunta: 
 
@@ -174,7 +177,7 @@ Para activar la dirección ip del switche
 
 Usa la información de la tabla de direccionamiento para configurar el S2 con una dirección IP. 
 
-![](Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.015.png)
+![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_2/IMAGENES/Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.015.png)
 
 **Verifica la configuración de direcciones IP en el S1 y el S2.** 
 
@@ -198,19 +201,19 @@ Puedes verificar la conectividad de la red mediante el comando **ping**. Es muy 
 
 1. Haga clic en Símbolo del sistema. 
 
-   ![](Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.016.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_2/IMAGENES/Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.016.png)
 
 1. Haga ping a la dirección IP de la PC2. 
 
-   ![](Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.017.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_2/IMAGENES/Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.017.png)
 
 1. Haga ping a la dirección IP del S1. 
 
-   ![](Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.018.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_2/IMAGENES/Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.018.png)
 
 1. Haga ping a la dirección IP del S2. 
 
-   ![](Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.019.png)
+   ![](https://github.com/Marlith08/CDR_GRUPO_4/blob/main/Actividades/Actividad_2/IMAGENES/Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.019.png)
 
 **Nota**: También usa el **ping** en la CLI del switch y en la PC2. 
 
@@ -219,4 +222,4 @@ Todos los ping deben tener éxito. Si el resultado del primer ping es 80%, inté
 *Fin del documento*** 
 Comunicación de Datos y Redes 
 
-[ref1]: Aspose.Words.4a04a952-2312-4885-bf35-5d11a6786cc3.001.png
+
