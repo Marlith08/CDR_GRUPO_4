@@ -23,11 +23,11 @@
 7. [Actividad 7: Investigación de los modelos TCP/IP y OSI](https://github.com/Marlith08/CDR_GRUPO_4/tree/main/Actividades/Actividad_7)
 8. [Actividad 8: Comunicaciones de TCP y UDP](https://github.com/Marlith08/CDR_GRUPO_4/tree/main/Actividades/Actividad_8)
 9. [Actividad 9: ]()
-10.[Actividad 10: ]()
-11.[Actividad 11: ]()
-12.[Actividad 12: Construyendo una área de red local](https://github.com/Marlith08/CDR_GRUPO_4/tree/main/Actividades/Actividad_12)
-13.[Actividad 13: TCP/IP](https://github.com/Marlith08/CDR_GRUPO_4/tree/main/Actividades/Actividad_13)
-14.[Actividad 14: ]() 
+10. [Actividad 10: ]()
+11. [Actividad 11: ]()
+12. [Actividad 12: Construyendo una área de red local](https://github.com/Marlith08/CDR_GRUPO_4/tree/main/Actividades/Actividad_12)
+13. [Actividad 13: TCP/IP](https://github.com/Marlith08/CDR_GRUPO_4/tree/main/Actividades/Actividad_13)
+14. [Actividad 14: ]() 
 
 
 ## 🛠️ Requisitos: ¿Listo para Empezar?
